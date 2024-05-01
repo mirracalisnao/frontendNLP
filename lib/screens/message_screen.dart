@@ -1,4 +1,4 @@
-import 'package:ccs249_frontend/api_handler/api.dart';
+import 'package:frontendNLP/api_handler/api.dart';
 import 'package:flutter/material.dart';
 
 import '../class/message.dart';

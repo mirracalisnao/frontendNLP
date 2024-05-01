@@ -1,4 +1,4 @@
-import 'package:ccs249_frontend/screens/message_screen.dart';
+import 'package:frontendNLP/screens/message_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
